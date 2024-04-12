@@ -1,18 +1,16 @@
 # ABOUT BLACKMAGIC
-- blackmagic has been one of many names of an experienced technical solutions engineer.
-- blackmagic is completely ethical in his ways, with a passion for cybersecurity. Currently working as a technical solutions engineer he is training for the OSCP.
-- blackmagic can solve a range of technical issues utilizing code along with 12+ years of experience in the craft.
-- blackmagic is versitized in using Windows and Linux operating systens. blackmagic knows how to code and can write fluent code in 6 programming languages (Including but not limited to C#, VB, BATCH, PYTHON), but will always take on the task of coding in another language.
-- blackmagic also loves the .NET framework and uses it for many projects. here is a few useful projects on my website you can run one command and get a clone of the site.
 
+- **Experience:** blackmagic, an experienced technical solutions engineer, brings over 12 years of expertise to the table.
+- **Ethical Focus:** Committed to ethical hacking and cybersecurity, blackmagic is currently training for the OSCP certification.
+- **Technical Proficiency:** Equipped with a versatile skill set, blackmagic can tackle a wide range of technical challenges using code.
+- **Operating Systems:** Proficient in both Windows and Linux systems, blackmagic is adept at writing fluent code in multiple languages.
+- **Favorite Framework:** An enthusiast of the .NET framework, blackmagic frequently utilizes it for various projects.
+- **Useful Projects:** Explore blackmagic's website for handy projects like "The Juice", accessible with a single command:
 ```bash
 wget -O pagesource.html -U "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0" --no-check-certificate https://blackmagic.6te.net/thejuice.html
 ```
-blackmagic is very helpful and if you ever have an issue feel free to join the discord server Hack Theory for help directly from him or other helpful members in the community!
-```bash
-firefox https://discord.gg/ADspmx3f
-```
-
+- **Community Support** Need assistance? Join the Hack Theory Discord server for direct help from blackmagic and other knowledgeable members: 
+https://discord.gg/ADspmx3f
 
 
 
