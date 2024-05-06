@@ -8,7 +8,7 @@ I'm a passionate software developer with a knack for crafting exploits and build
 - **Cybersecurity Enthusiast:** Protecting digital assets and understanding the ever-evolving threat landscape is my passion.
 - **Technical Solutions:** Solving issues ranging from simple to complex using technology efficiently. 
 
-### 🚀 Languages & Tools:
+### 🛠️ Languages & Tools:
 - **Python:** My go-to language for most of my projects, especially when it comes to hacking and cybersecurity.
 - **C#/C:** Crafting efficient and powerful exploits is made easier with these languages.
 - **.NET:** For web-based exploits and dynamic scripting needs.
@@ -19,21 +19,17 @@ I'm a passionate software developer with a knack for crafting exploits and build
 - **Ethical Hacking:** Harnessing my skills for good by identifying and fixing security loopholes.
 - **Security Research:** Staying up-to-date with the latest threats and vulnerabilities keeps me sharp and proactive.
 
-### 🌟 Let's Connect:
+### 👥 Let's Connect:
 - **GitHub:** Check out my repositories and feel free to collaborate on exciting projects!
 - **Website:** Check out my website for a cool archive of projects and fun challenges.
-```
-https://blackmagic.6te.net/thejuice.html`
-```
+[Archive](https://blackmagic.6te.net/thejuice.html)
+
 - **YouTube:** Follow me for updates, insights, and occasional tech memes!
-```
-https://www.youtube.com/channel/UCObur46C89zRnv71YHZb1tg
-```
+[Hack Theory Youtube](https://www.youtube.com/channel/UCObur46C89zRnv71YHZb1tg)
+
 
 ### 📩 Get in Touch:
 - **Community Support** Need assistance? Join the Hack Theory Discord server for direct help from blackmagic and other knowledgeable members:
-```
-https://discord.gg/ADspmx3f
-```
+[Hack Theory](https://discord.gg/ADspmx3f)
 
 Let's build secure and innovative solutions together!
