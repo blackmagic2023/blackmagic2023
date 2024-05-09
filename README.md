@@ -13,6 +13,7 @@ I'm a passionate software developer with a knack for crafting exploits and build
 - **C#/C:** Crafting efficient and powerful exploits is made easier with these languages.
 - **.NET:** For web-based exploits and dynamic scripting needs.
 - **Git:** Where would we be without version control? It's my trusted companion in every project.
+- **bash/batch** A must know for using the command line on windows or linux.
 
 ### 🔒 Cybersecurity Focus:
 - **Penetration Testing:** Uncovering vulnerabilities and providing recommendations for mitigation is my forte.
