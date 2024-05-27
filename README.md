@@ -31,6 +31,6 @@ I'm a passionate software developer with a knack for crafting exploits and build
 
 ### 📩 Get in Touch:
 - **Community Support** Need assistance? Join the Hack Theory Discord server for direct help from blackmagic and other knowledgeable members:
-[Hack Theory](https://discord.gg/ADspmx3f)
+[Hack Theory](https://discord.gg/FBYzZvV5MR)
 
 Let's build secure and innovative solutions together!
