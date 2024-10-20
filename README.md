@@ -57,8 +57,8 @@ Let's build secure and innovative solutions together!
  
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mhtml,css,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=bash,blender,c,cs,css,cpp,debian,dotnet" />
+    <img src="https://skillicons.dev/icons?i=github,go,html,javascript,kali,mysql,php,powershell,python,swift" /><br>
 </div>
 
 <br/>
@@ -83,5 +83,12 @@ Let's build secure and innovative solutions together!
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=blackmagic2023&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<hr/>
+
+<div> 
+    <img src="https://komarev.com/ghpvc/?username=blackmagic2023&color=f82e1b" alt="watching_count" />
+</div>
+
 <br/><br/>
+
 [Click Me!](https://blackmagic2023.github.io/blackmagic2023/)
