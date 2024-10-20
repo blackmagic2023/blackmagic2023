@@ -30,7 +30,7 @@
 ### 👥 Let's Connect:
 **GitHub:** Check out my repositories and feel free to collaborate on exciting projects!
 **Website:** Check out my website for a cool archive of projects and fun challenges.
-[Archive](https://blackmagic.6te.net/juice.html)
+[Archive](https://blackmagic.6te.net/)
 
 **YouTube:** Follow me for updates, insights, and occasional tech memes!
 [Hack Theory Youtube](https://www.youtube.com/channel/UCObur46C89zRnv71YHZb1tg)
@@ -48,7 +48,7 @@ Let's build secure and innovative solutions together!
   <a href="mailto:rigsbysafag@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/blackmagic2023" target="_blank">
+  <a href="https://blackmagic.6te.net/juice.html" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
