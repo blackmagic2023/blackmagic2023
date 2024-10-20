@@ -30,7 +30,7 @@
 ### 👥 Let's Connect:
 **GitHub:** Check out my repositories and feel free to collaborate on exciting projects!
 **Website:** Check out my website for a cool archive of projects and fun challenges.
-[Archive](https://blackmagic.6te.net/)
+[Hack Theory](https://discord.com/servers/hack-theory-1138548626491199519)
 
 **YouTube:** Follow me for updates, insights, and occasional tech memes!
 [Hack Theory Youtube](https://www.youtube.com/channel/UCObur46C89zRnv71YHZb1tg)
